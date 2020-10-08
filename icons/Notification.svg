@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <filter id="Ellipse_144" x="2" y="2" width="36" height="36" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Notification_icon_button" data-name="Notification icon button" transform="translate(-8496 -3248)">
+    <circle id="Ellipse_145" data-name="Ellipse 145" cx="20" cy="20" r="20" transform="translate(8496 3248)" fill="#ffc600" opacity="0.29"/>
+    <g id="Group_419" data-name="Group 419" transform="translate(8501.158 3253.158)">
+      <g transform="matrix(1, 0, 0, 1, -5.16, -5.16)" filter="url(#Ellipse_144)">
+        <circle id="Ellipse_144-2" data-name="Ellipse 144" cx="15" cy="15" r="15" transform="translate(5 5)" fill="#fff"/>
+      </g>
+      <g id="bell" transform="translate(7.641 6.798)">
+        <g id="Group_418" data-name="Group 418" transform="translate(0 0)">
+          <path id="Path_575" data-name="Path 575" d="M18.582,11.013a2,2,0,0,0-.065-.269,1.721,1.721,0,0,0-1.909-1.117.5.5,0,0,1-.57-.416l-.413-2.646a5.79,5.79,0,0,0-4.146-4.7,2.228,2.228,0,0,0-4.4.678A5.571,5.571,0,0,0,4.549,8.131l.445,2.82a.5.5,0,0,1-.416.57A1.724,1.724,0,0,0,3.1,13.168a1.676,1.676,0,0,0,1.66,1.693h.016a1.764,1.764,0,0,0,.262-.02l1.719-.272a2.218,2.218,0,0,0,4.11-.645l6.317-1A1.677,1.677,0,0,0,18.582,11.013ZM8.688,14.589a1.108,1.108,0,0,1-.658-.216L9.6,14.128A1.114,1.114,0,0,1,8.688,14.589ZM10.195,1.683a5.7,5.7,0,0,0-.626.016,5.5,5.5,0,0,0-.652.1c-.046.01-.092.023-.138.033-.177.043-.347.088-.517.147a.307.307,0,0,0-.052.013,1.113,1.113,0,0,1,.9-.8,1.072,1.072,0,0,1,.177-.013,1.123,1.123,0,0,1,.93.5Z" transform="translate(-3.101 0)" fill="#ffc600"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

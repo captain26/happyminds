@@ -1,0 +1,73 @@
+<svg id="doctors_collective_button" data-name="doctors collective button" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="81" height="81" viewBox="0 0 81 81">
+  <defs>
+    <clipPath id="clip-path">
+      <ellipse id="Ellipse_195" data-name="Ellipse 195" cx="11" cy="9" rx="11" ry="9" fill="#ffc600" stroke="#072ac8" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <ellipse id="Ellipse_189" data-name="Ellipse 189" cx="15" cy="12.5" rx="15" ry="12.5" fill="#ffc600" stroke="#072ac8" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <ellipse id="Ellipse_183" data-name="Ellipse 183" cx="29.5" cy="28" rx="29.5" ry="28" fill="#ffc600" stroke="#072ac8" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="outer_circle" data-name="outer circle" fill="#fff" stroke="#072ac8" stroke-width="3">
+    <circle cx="40.5" cy="40.5" r="40.5" stroke="none"/>
+    <circle cx="40.5" cy="40.5" r="39" fill="none"/>
+  </g>
+  <g id="people_symbol" data-name="people symbol" transform="translate(4 5)">
+    <g id="Ellipse_184" data-name="Ellipse 184" transform="translate(20.902)" fill="#ffc600" stroke="#072ac8" stroke-width="1">
+      <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+      <circle cx="15.5" cy="15.5" r="15" fill="none"/>
+    </g>
+    <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(0 32)" clip-path="url(#clip-path)">
+      <g id="Ellipse_194" data-name="Ellipse 194" transform="translate(4 6)" fill="#ffc600" stroke="#072ac8" stroke-width="1">
+        <ellipse cx="7.5" cy="8" rx="7.5" ry="8" stroke="none"/>
+        <ellipse cx="7.5" cy="8" rx="7" ry="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Ellipse_196" data-name="Ellipse 196" transform="translate(6 27)" fill="#ffc600" stroke="#072ac8" stroke-width="1">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4.5" fill="none"/>
+    </g>
+    <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(50 32)" clip-path="url(#clip-path)">
+      <g id="Ellipse_185" data-name="Ellipse 185" transform="translate(4 6)" fill="#ffc600" stroke="#072ac8" stroke-width="1">
+        <ellipse cx="7.5" cy="8" rx="7.5" ry="8" stroke="none"/>
+        <ellipse cx="7.5" cy="8" rx="7" ry="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Ellipse_187" data-name="Ellipse 187" transform="translate(56 27)" fill="#ffc600" stroke="#072ac8" stroke-width="1">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4.5" fill="none"/>
+    </g>
+    <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(3 34)" clip-path="url(#clip-path-3)">
+      <g id="Ellipse_188" data-name="Ellipse 188" transform="translate(5 8)" fill="#ffc600" stroke="#072ac8" stroke-width="1">
+        <ellipse cx="10.5" cy="11" rx="10.5" ry="11" stroke="none"/>
+        <ellipse cx="10.5" cy="11" rx="10" ry="10.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Ellipse_190" data-name="Ellipse 190" transform="translate(9.382 27)" fill="#ffc600" stroke="#072ac8" stroke-width="1">
+      <circle cx="7" cy="7" r="7" stroke="none"/>
+      <circle cx="7" cy="7" r="6.5" fill="none"/>
+    </g>
+    <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(38 34)" clip-path="url(#clip-path-3)">
+      <g id="Ellipse_191" data-name="Ellipse 191" transform="translate(5 8)" fill="#ffc600" stroke="#072ac8" stroke-width="1">
+        <ellipse cx="10.5" cy="11" rx="10.5" ry="11" stroke="none"/>
+        <ellipse cx="10.5" cy="11" rx="10" ry="10.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Ellipse_193" data-name="Ellipse 193" transform="translate(47.765 27)" fill="#ffc600" stroke="#072ac8" stroke-width="1">
+      <circle cx="7" cy="7" r="7" stroke="none"/>
+      <circle cx="7" cy="7" r="6.5" fill="none"/>
+    </g>
+    <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(7 16)" clip-path="url(#clip-path-5)">
+      <g id="Ellipse_182" data-name="Ellipse 182" transform="translate(9.406 17)" fill="#ffc600" stroke="#072ac8" stroke-width="1">
+        <ellipse cx="19.667" cy="25" rx="19.667" ry="25" stroke="none"/>
+        <ellipse cx="19.667" cy="25" rx="19.167" ry="24.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <g id="hospital_plus" data-name="hospital plus" transform="translate(28.574 47)" fill="#072ac8">
+    <path d="M 14.99978828430176 22.50042343139648 L 7.999698162078857 22.50042343139648 L 7.999698162078857 15.4998140335083 L 7.999698162078857 14.9998140335083 L 7.499698162078857 14.9998140335083 L 0.4999983608722687 14.9998140335083 L 0.4999983608722687 7.999723434448242 L 7.499698162078857 7.999723434448242 L 7.999698162078857 7.999723434448242 L 7.999698162078857 7.499723434448242 L 7.999698162078857 0.5000036358833313 L 14.99978828430176 0.5000036358833313 L 14.99978828430176 7.499723434448242 L 14.99978828430176 7.999723434448242 L 15.49978828430176 7.999723434448242 L 22.50039863586426 7.999723434448242 L 22.50039863586426 14.9998140335083 L 15.49978828430176 14.9998140335083 L 14.99978828430176 14.9998140335083 L 14.99978828430176 15.4998140335083 L 14.99978828430176 22.50042343139648 Z" stroke="none"/>
+    <path d="M 14.49978828430176 22.00042343139648 L 14.49978828430176 15.4998140335083 L 14.49978828430176 14.4998140335083 L 15.49978828430176 14.4998140335083 L 22.00039863586426 14.4998140335083 L 22.00039863586426 8.499723434448242 L 15.49978828430176 8.499723434448242 L 14.49978828430176 8.499723434448242 L 14.49978828430176 7.499723434448242 L 14.49978828430176 1.000003576278687 L 8.499698638916016 1.000003576278687 L 8.499698638916016 7.499723434448242 L 8.499698638916016 8.499723434448242 L 7.499698162078857 8.499723434448242 L 0.9999983906745911 8.499723434448242 L 0.9999983906745911 14.4998140335083 L 7.499698162078857 14.4998140335083 L 8.499698638916016 14.4998140335083 L 8.499698638916016 15.4998140335083 L 8.499698638916016 22.00042343139648 L 14.49978828430176 22.00042343139648 M 15.49978828430176 23.00042343139648 L 7.499698162078857 23.00042343139648 L 7.499698162078857 15.4998140335083 L -1.635742137295892e-06 15.4998140335083 L -1.635742137295892e-06 7.499723434448242 L 7.499698162078857 7.499723434448242 L 7.499698162078857 3.62304695045168e-06 L 15.49978828430176 3.62304695045168e-06 L 15.49978828430176 7.499723434448242 L 23.00039863586426 7.499723434448242 L 23.00039863586426 15.4998140335083 L 15.49978828430176 15.4998140335083 L 15.49978828430176 23.00042343139648 Z" stroke="none" fill="#ffefb5"/>
+  </g>
+</svg>

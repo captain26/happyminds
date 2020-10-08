@@ -1,0 +1,9 @@
+<svg id="Task_list_button" data-name="Task list button" xmlns="http://www.w3.org/2000/svg" width="42.041" height="40.136" viewBox="0 0 42.041 40.136">
+  <g id="Component_24_2" data-name="Component 24 – 2" transform="translate(0 5.136)">
+    <g id="Rectangle_629" data-name="Rectangle 629" fill="#ffc600" stroke="#ffefb5" stroke-width="1">
+      <rect width="35" height="35" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="34" height="34" rx="2.5" fill="none"/>
+    </g>
+  </g>
+  <path id="Union_34" data-name="Union 34" d="M-285.221-303.11l-2.544-1.59.079-.127-7.979-4.794a3,3,0,0,1-1.027-4.117,3,3,0,0,1,4.117-1.027l8.07,4.849,12.638-20.225a3,3,0,0,1,4.134-.954,3,3,0,0,1,.955,4.134l-14.308,22.9a3,3,0,0,1-2.547,1.411A2.986,2.986,0,0,1-285.221-303.11Z" transform="translate(206.659 400.606) rotate(16)" fill="#072ac8"/>
+</svg>

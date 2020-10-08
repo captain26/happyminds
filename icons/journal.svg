@@ -1,0 +1,23 @@
+<svg id="journal_icon" data-name="journal icon" xmlns="http://www.w3.org/2000/svg" width="38" height="44.934" viewBox="0 0 38 44.934">
+  <g id="book_back" data-name="book back" transform="translate(0 4)" fill="#ffc600" stroke="#ffefb5" stroke-width="1">
+    <rect width="38" height="36" rx="3" stroke="none"/>
+    <rect x="0.5" y="0.5" width="37" height="35" rx="2.5" fill="none"/>
+  </g>
+  <g id="middle_page" data-name="middle page" transform="translate(0 2)" fill="#ffc600" stroke="#ffefb5" stroke-width="1">
+    <rect width="36" height="38" rx="3" stroke="none"/>
+    <rect x="0.5" y="0.5" width="35" height="37" rx="2.5" fill="none"/>
+  </g>
+  <path id="bookmark" d="M53.083,32v6.81l3.123-2.817,3.377,2.817V32Z" transform="translate(-49 5)" fill="#072ac8" stroke="#072ac8" stroke-width="1"/>
+  <g id="book_cover" data-name="book cover" fill="#ffc600" stroke="#ffefb5" stroke-width="1">
+    <rect width="34" height="40" rx="3" stroke="none"/>
+    <rect x="0.5" y="0.5" width="33" height="39" rx="2.5" fill="none"/>
+  </g>
+  <g id="pen_body" data-name="pen body" transform="translate(21.831 10.783) rotate(45)" fill="#072ac8" stroke="#072ac8" stroke-width="1">
+    <rect width="6" height="18" rx="0.5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="5" height="17" fill="none"/>
+  </g>
+  <g id="pen_tip" data-name="pen tip" transform="translate(9.744 31.539) rotate(-135)" fill="#072ac8">
+    <path d="M 5.116899967193604 4.5 L 0.8830999732017517 4.5 L 3 0.971833348274231 L 5.116899967193604 4.5 Z" stroke="none"/>
+    <path d="M 3 1.943650007247925 L 1.766190052032471 4 L 4.233809947967529 4 L 3 1.943650007247925 M 3 0 L 6 5 L 0 5 L 3 0 Z" stroke="none" fill="#072ac8"/>
+  </g>
+</svg>
